@@ -8,7 +8,7 @@ login/reg screen
     - wont get technical for now. used to pass in name.
     - potentially use SQL to add a database and validation.
 
-language screen
+language screen (only if you dont already have an account)
     - prompt user to select a language
     - have one functional language for now (spanish) add in others for aesthetics and future functionality
 
