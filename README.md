@@ -6,10 +6,10 @@ loading screen
 login/reg screen
     - prompt user to log in and then have option below "not already a user? register now"
     - wont get technical for now. used to pass in name.
-    - potentially use mysql to add a database and validation.
+    - potentially use SQL to add a database and validation.
 
 home screen
-    - welcome
+    - welcome {name of user}
 
 
 profile screen
@@ -17,3 +17,5 @@ profile screen
 
 *questions for self
     - what type of data do we want to maintain for the users who are logged in? name, progress (how far the user got in their language completion before they logged out), 
+
+    - how do we join/combine SQL code and React code?
