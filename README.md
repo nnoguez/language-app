@@ -10,6 +10,7 @@ login/reg screen
 
 home screen
     - welcome {name of user}
+    - 
 
 
 profile screen
