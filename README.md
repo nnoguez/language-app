@@ -5,6 +5,7 @@ loading screen
 
 home screen
     - welcome
+    - potentially add mysql for login/reg feature
 
 
 profile screen
