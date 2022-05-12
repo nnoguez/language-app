@@ -5,7 +5,7 @@ loading screen
 
 login/reg screen
     - prompt user to log in and then have option below "not already a user? register now"
-    - wont get technical for now. used to pass in data.
+    - wont get technical for now. used to pass in data. (what type of data do we want to maintain for the users who are logged in? name, progress)
     - potentially use mysql to add a database and validation.
 
 home screen
