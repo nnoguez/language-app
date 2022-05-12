@@ -9,6 +9,7 @@ export default function App() {
       <Button title="Click Me!"></Button>
       <StatusBar style="auto" />
     </View>
+
   );
 }
 
