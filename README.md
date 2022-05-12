@@ -8,9 +8,13 @@ login/reg screen
     - wont get technical for now. used to pass in name.
     - potentially use SQL to add a database and validation.
 
+language screen
+    - prompt user to select a language
+    - have one functional language for now (spanish) add in others for aesthetics and future functionality
+
 home screen
     - welcome {name of user}
-    - 
+    - progress bar
 
 
 profile screen
