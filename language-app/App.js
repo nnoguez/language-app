@@ -1,4 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
+// import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
 import {Card, Button} from 'react-native-elements';
 // import { color } from 'react-native-elements/dist/helpers';
@@ -10,7 +10,7 @@ export default function App() {
       <Button 
         title="Fuck Me!"
       ></Button>
-      <StatusBar style="auto" />
+      {/* <StatusBar style="auto" /> */}
     </View>
 
   );
