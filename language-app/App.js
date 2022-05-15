@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import {Card, Button} from 'react-native-elements';
-import { color } from 'react-native-elements/dist/helpers';
+// import { color } from 'react-native-elements/dist/helpers';
 
 export default function App() {
   return (
