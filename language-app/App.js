@@ -8,7 +8,7 @@ export default function App() {
     <View style={styles.container}>
       <Card>Open up Ap.js to start working on your app!</Card>
       <Button 
-        title="Click Me!"
+        title="Click This!"
       ></Button>
       <StatusBar style="auto" />
     </View>
